@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "whats-this-quote"
+version = "0.1.0"
+description = ""
+authors = ["Debaashis Ojha Dip <debashis.ojha.dip@dynatrace.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
